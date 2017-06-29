@@ -1,0 +1,20 @@
+{
+  "name": "gulp-pug-scaffold",
+  "description": "Scaffolded out project structure using pug as it's view engine",
+  "main": "index.js",
+  "authors": [
+    "Jared Eiseman and Michael Koceja"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+build/
+tmp/
+package.lock.json
+bower_components/
+.env
+.DS_Store
